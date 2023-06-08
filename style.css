@@ -343,13 +343,6 @@ nav {
     margin-top: -50px;
 }
 
-#contact h1 {
-    display: flex;
-    justify-content: center;
-    font-family: 'Roboto', sans-serif;
-    font-size: 80px;
-}
-
 .info {
     display: flex;
     justify-content: space-between;
